@@ -77,7 +77,7 @@ by executing the following command:
 ```
 python Kick-R.py
 ```
-This will produce a summary file (Kick-R.out) and 250 (in this example) Gaussian inpupt files which are to be submitted for 
+This will produce a summary file (Kick-R.out), and 250 (in this example) Gaussian inupt files which are to be submitted for 
 optimization.  An example of one such input file is:
 
 ```
@@ -149,4 +149,3 @@ def ConnectedCriteria(graph):
         j = i + 1
     return passed
 ```
-Please direct any questions regarding useage of this code to chadm_@yahoo.com.
