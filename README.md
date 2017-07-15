@@ -77,7 +77,7 @@ by executing the following command:
 ```
 python Kick-R.py
 ```
-This will produce a summary file (Kick-R.out), and 250 (in this example) Gaussian inupt files which are to be submitted for 
+This will produce a summary file (Kick-R.out), and 250 (in this example) Gaussian input files which are to be submitted for 
 optimization.  An example of one such input file is:
 
 ```
