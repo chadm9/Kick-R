@@ -1,0 +1,23 @@
+Input Parameters
+DFT Method: PBEPBE
+Basis Set: LANL2DZ
+Charge: 0
+Multiplicity: 2
+Requested Number of Kicks: 1
+Number of Atoms: 7
+Box Dimensions: 8.68 x 8.68 x 8.68
+2x(Sum of Covalent Radii): 17.36
+
+Starting Structure
+Au  0.0	0.0	0.0
+Au  0.0	0.0	0.0
+Au  0.0	0.0	0.0
+Au  0.0	0.0	0.0
+Au  0.0	0.0	0.0
+Au  0.0	0.0	0.0
+Au  0.0	0.0	0.0
+
+Kick-R Statistics
+Number of kicks rejected due to short interatomic distances: 4412
+Number of kicks rejected because not all atoms were connected: 4410
+Total number of kicks rejected: 4717

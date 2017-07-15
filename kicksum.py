@@ -1,11 +1,8 @@
-__author__ = 'chad'
-
-import re, sys
-
-#This script summarizes the results of an Kick-R search.
+#This script summarizes the results of a Kick-R search.
 #A usage example is 'python kicksum.py 250 > results', which will create a file 'results' that summarizes your search
 #based on 250 candidate structures.
 
+import re, sys
 
 def main():
 
